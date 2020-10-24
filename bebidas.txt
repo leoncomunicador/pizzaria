@@ -1,0 +1,10 @@
+1 - Coca-Cola;
+2 - Sprite;
+3 - Fanta Laranja/ Uva;
+4 - Guaraná Kuat;
+5 - Limonada Suíça copo 500 ml ou jarra de 1 litro;
+6 - Suco de laranja natural copo 500 ml ou jarra de 1 litro;
+7 - Cerveja Skol;
+8 - Cerveja Antárctica;
+9 - Chopp Artesanal (diversos);
+10 - Caipirinha
