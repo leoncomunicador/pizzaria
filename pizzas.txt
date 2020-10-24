@@ -1,0 +1,10 @@
+1 - Portuguesa;
+2- Marguerita;
+3 - Milho;
+4 - Calabresa;
+5 - 4 Queijos;
+6 - Frango com Catupiry;
+7 - Peperoni;
+8 - Alho e Óleo;
+9 - Italiana;
+10 - Chester com catupiry;
